@@ -1,2 +1,2 @@
 # resources-DMST
-Usefull resources for DMST courses
+Useful resources for DMST courses
